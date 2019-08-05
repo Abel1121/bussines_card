@@ -1,0 +1,56 @@
+html {
+    box-sizing: border-box;
+}
+body {
+    background: #2C2141;
+    min-height: 100vh;
+    padding: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.card {
+    background: #F8F8F8;
+    padding: 32px;
+    border-radius: 16px;
+    max-width: 560px;
+    width: 100%;
+}
+.person {
+    display: flex;
+    align-items: flex-start;
+}
+.person_photo {
+    margin-right: 32px;
+}
+.person_name {
+    margin: 0;
+    font-size: 36px;
+    font-weight: normal;
+}
+.person_header{
+    margin-bottom: 32px;
+}
+.person_position {
+    color: #545454;
+    font-size: 18px;
+    font-style: italic;
+}
+.person_desription {
+    font-size: 16px;
+    line-height: 22px;
+    
+}
+.person_special {
+    font-style: normal;
+    color: #ED6D05;
+    font-weight: normal;
+}
+.person_link {
+    color: #E20613;
+    text-decoration: none;
+}
+.person_last {
+    margin: 0;
+}
