@@ -1,1 +1,10 @@
-Projekt ten miał za zadanie nauczenie się korzystania z Figmy, oraz zakodowanie prostego layoutu strony z Figmy do Html-a
+![Screenshots](/img/cover.png)
+# Bussines_card
+
+This project was supposed to learn how to use Figma, and encode a simple page layout from Figma to Html 🔥
+
+## Tools & Technologies I've used
+* VSC
+* Figma
+* HTML
+* CSS Flexbox
